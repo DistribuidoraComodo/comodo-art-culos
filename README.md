@@ -1,1 +1,1 @@
-# comodo-art-culos
+# comodo-articulos
